@@ -3,10 +3,15 @@
 }
 
 .container{
+    padding-left: 2%;
     font-family: "Open Sans";
     margin: 5%;
     background-color: #99FF33;
     border: 2px solid black;
+}
+
+p{
+    padding-top: 15px;
 }
 
 span{
