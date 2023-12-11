@@ -43,3 +43,32 @@ article:nth-of-type(4) {
 	background-color: purple;
 	color:aliceblue;
 }
+
+article {
+	position: relative;
+}
+
+div {
+	font-family: 'Kalnia', serif;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+div h2 {
+	font-family: 'Afacad', sans-serif;
+	font-size: 1.2em;
+	width: 180px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	margin: 0;
+}
+
+table {
+	border-spacing: 0;
+	border: 1px solid black;
+}
+
+td, th{
+	border: 1px solid black;
+}
