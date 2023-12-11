@@ -23,3 +23,23 @@ article:nth-of-type(4) {
 	justify-content: center;
 	background-color: blue;
 }
+
+.title1 {
+	background-color: grey;
+	color: blueviolet;
+}
+
+.title2 {
+	background-color: brown;
+	color: aqua;
+}
+
+.title3 {
+	background-color: yellow;
+	color:blue;
+}
+
+.title4 {
+	background-color: purple;
+	color:aliceblue;
+}
